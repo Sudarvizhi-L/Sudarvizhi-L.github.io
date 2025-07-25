@@ -1,25 +1,8 @@
 [
-  {
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[
-        {"name" : "Python"},
-        {"name" : "Java"},
-        {"name" : "git"},
-        {"name" : "HTML"},
-        {"name" : "SQL"}, 
-        {"name" : "JavaScript"},
-        {"name" : "Machine Learning"}
-        
-      ]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[{ "name" : "MySQL"}]
-  },
-  {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"}
-      ]
-  }
+    {
+        "role":"Machine Learning Intern",
+        "company":"Elysium Technolgies Private Ltd",
+        "summary":"Learned and implemented Machine Learning Algorithms",
+        "range":"June 2023 - July 2023"
+    }
 ]
