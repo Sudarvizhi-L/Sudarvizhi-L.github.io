@@ -3,12 +3,13 @@
         "school":"Saranathan College of Engineering",
         "degree":"Bachelor of Technology",
         "major":"Computer Science and Business Systems",
+        "cgpa":"9 CGPA",
         "range":"2021 - 2025"
     },
     {
         "school":"CEOA Matriculation Higher Secondary School",
         "degree":"HSc",
-        "major":"",
+        "major":"87%",
         "range":"2019 - 2020"
     }
 ]
