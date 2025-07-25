@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Tech enthusiast with experience in web development, machine learning, Java, Python, SQL with strong leadership and teamwork skills.
+Tech enthusiast with experience in web development, machine learning, Java, Python through hands-on projects and have good problem solving skills and teamwork.
