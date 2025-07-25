@@ -12,13 +12,12 @@
         
       ]
   },
-  {
-    "grouping":"Operating System",
-    "skills":[
-        {"name" : "Linux"},
-        {"name" : "Windows"}     
+    {
+      "grouping":"Programming Models",
+      "skills":[
+        {"name":"Object Oriented"},
+        {"name":"Functional Oriented"}
       ]
-
   },
   {
     "grouping":"Tools",
@@ -46,10 +45,11 @@
 
   },
   {
-      "grouping":"Programming Models",
-      "skills":[
-        {"name":"Object Oriented"},
-        {"name":"Functional Oriented"}
+    "grouping":"Operating System",
+    "skills":[
+        {"name" : "Linux"},
+        {"name" : "Windows"}     
       ]
+
   }
 ]
