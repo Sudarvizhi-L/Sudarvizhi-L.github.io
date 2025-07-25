@@ -37,15 +37,13 @@
   {
     "grouping":"DataBase",
     "skills":[
-        {"name" : "MySQL"},
-        {"name" : "PostgreSQL"}      
+        {"name" : "MySQL"}    
       ]
 
   },
   {
     "grouping":"Operating System",
     "skills":[
-        {"name" : "Linux"},
         {"name" : "Windows"}     
       ]
   },

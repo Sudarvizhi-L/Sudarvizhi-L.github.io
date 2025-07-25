@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Developer with Java and Machine Learning skills, learning web technologies through hands-on projects.
+Tech enthusiast with experience in web development, machine learning, Java, Python, SQL with strong leadership and teamwork skills.
