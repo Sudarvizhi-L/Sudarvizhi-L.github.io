@@ -1,16 +1,49 @@
 [
   {
-      "grouping":"Languages, Operating Systems & Tools",
+      "grouping":"Languages",
       "skills":[
-        {"name" : "Python"},
         {"name" : "Java"},
-        {"name" : "git"},
+        {"name" : "Python"},
         {"name" : "HTML"},
-        {"name" : "SQL"}, 
+        {"name" : "CSS"}, 
         {"name" : "JavaScript"},
+        {"name" : "SQL"},
         {"name" : "Machine Learning"}
         
       ]
+  },
+  {
+    "grouping":"Operating System",
+    "skills":[
+        {"name" : "Linux"},
+        {"name" : "Windows"}     
+      ]
+
+  },
+  {
+    "grouping":"Tools",
+    "skills":[
+        {"name" : "Git"},
+        {"name" : "Docker"},
+        {"name" : "VSCode"},
+        {"name" : "IntelliJ"}       
+      ]
+
+  },
+  {
+    "grouping":"No-code Low-code Platform",
+    "skills":[
+        {"name" : "Shopify"}      
+      ]
+
+  },
+  {
+    "grouping":"DataBase",
+    "skills":[
+        {"name" : "MySQL"},
+        {"name" : "PostgreSQL"}      
+      ]
+
   },
   {
       "grouping":"Programming Models",
