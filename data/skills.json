@@ -7,9 +7,7 @@
         {"name" : "HTML"},
         {"name" : "CSS"}, 
         {"name" : "JavaScript"},
-        {"name" : "SQL"},
-        {"name" : "Machine Learning"}
-        
+        {"name" : "SQL"}
       ]
   },
     {
@@ -50,6 +48,11 @@
         {"name" : "Linux"},
         {"name" : "Windows"}     
       ]
-
+  },
+    {
+    "grouping":"Area of Interest",
+    "skills":[
+        {"name" : "Machine Learning"}      
+      ]
   }
 ]
