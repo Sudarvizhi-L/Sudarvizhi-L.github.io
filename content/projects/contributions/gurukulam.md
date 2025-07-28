@@ -2,7 +2,7 @@
 title: "Gurukulams"
 link: "https://github.com/gurukulams/gurukulam"
 image: "/img/gurukulams-logo.jpg"
-description: "Initiative work done for students by transforming traditional physical books to E-books"
+description: "Initiative work done for students in rendering the questions to the site"
 featured: true
 tags: ["Markdown", "Katex", "Git", "VSCode", "Hugo"]
 fact: "Modernize the Education Experience of students."
@@ -24,5 +24,7 @@ Currently, our organization offers two types of books: **government school textb
 - **Content Delivery**: For server-side rendering and viewing changes in real-time, we utilize Hugo, enhancing the user experience and facilitating seamless updates.
 
 By employing the **latest technologies** and nearly all features of **Git**, we simplify communication and project management through the Kanban methodology, ensuring that our collaborative efforts yield a meaningful impact in the educational landscape.
+
+I worked in the module where the questions are rendered to the site. It was in such a way that the performance was increased, the memory storage is reduced, reduced the number of round trips to render the questions from the database.
 
 Project Links: [Government School Books](https://github.com/tnebooks/) | [Computer Science Books](https://github.com/csebooks/)
