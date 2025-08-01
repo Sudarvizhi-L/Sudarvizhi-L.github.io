@@ -1,8 +1,0 @@
-.hugo/
-public/
-resources/
-themes/
-*.backup
-
-.hugo_build.lock
-themes/my-resume
