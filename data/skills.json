@@ -50,7 +50,8 @@
     {
     "grouping":"Area of Interest",
     "skills":[
-        {"name" : "Machine Learning"}      
+        {"name" : "Machine Learning"},
+        {"name" : "Data Engineering"}      
       ]
   }
 ]
