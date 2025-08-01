@@ -1,0 +1,9 @@
+{
+    "emmet.extensionsPath": [
+        "."
+    ],
+    "emmet.showSuggestionsAsSnippets": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "cSpell.enabled": false
+}
