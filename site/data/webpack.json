@@ -1,7 +1,7 @@
 {
   "main": {
-    "css": "main.b9d43.css",
-    "js": "main.b9d43.js"
+    "css": "main.css",
+    "js": "main.js"
   },
   "": {
     "keep": "fonts/.keep"
